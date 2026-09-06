@@ -2,7 +2,7 @@
 
 1. Fork the repo.
 2. Clone the repo in your account to your Ubuntu VM.
-3. Inside the `students` folder create a folder with your roll number in **ALL CAPS LETTERS**.
+3. Inside the `students` folder create a folder with your roll number in **ALL CAPITAL LETTERS**.
 4. Inside the folder add two files. One is an `index.html` file, which you design the way you want it. The second file must follow the given JSON format, and must contain your roll number, your name, and your GitHub photo URL like `https://github.com/<your-github-user-name>.png`.
 5. Once this is done, commit the changes.
 6. Push the changes to the repo in your account.
